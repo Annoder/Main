@@ -12,27 +12,62 @@
   
 </p><br>
 
-## Areas of Expertise
-### 💻 Software Development
+## Table of Contents
+- [Areas of Expertise](#areas-of-expertise)
+  - [Software Development](#software-development)
+  - [Cybersecurity](#cybersecurity)
+  - [Graphical Interfaces and Design](#graphical-interfaces-and-design)
+- [Tech Stack](#technological-ecosystem)
+- [Projects](#recent-projects)
+- [Contact](#collaboration-and-contact)
+
+## **Areas of Expertise**
+### **Software Development**
 - __`Python`__: From automation scripts to graphical applications and pentesting tools
 - __`Bash`__: Exploring every corner Linux hides
+- __`Frontend`__: Modern `HTML5` (SEO & accessibility focus), `CSS3` (responsive-first design, mobile optimization) and `JavaScript` (ES6+, modular development, asynchronous programming)  
 
 <br>
 
-### 🛡️ Cibersecurity
-- __`Pentesting`__: Identifying vulnerabilities to strengthen defenses
-- __`Ethical Hacking`__: Using the power of knowledge to improve the world
+### **Cybersecurity**
+- __`Pentesting`__ — Identifying, analyzing, and documenting security vulnerabilities through controlled offensive techniques.
+  > Skilled in reconnaissance, exploitation, and post-exploitation within Linux and Windows environments.
+  > Focused on real-world attack simulation to enhance overall security posture.
+
+- __`Ethical Hacking`__ — Leveraging offensive security to protect and educate.
+  > Applying responsible disclosure, threat modeling, and risk mitigation strategies to build safer systems.
+  > Advocates for a proactive and ethical approach to cybersecurity.
+
+- __`Clean & Efficient Code`__ — Applying software engineering principles to cybersecurity tooling.
+  > Writing readable, modular, and maintainable scripts using Python, Bash, and JavaScript.
+  > Follows clean code methods, DRY/KISS principles, and secure coding practices to ensure both performance and reliability.
+
+- __`Automation & Tooling`__ — Building custom tools to streamline repetitive tasks.
+  > Integrates scripting, APIs, and OSINT resources to accelerate vulnerability discovery and reporting.
+
+- __`Continuous Learning`__ — Staying updated with the latest exploits, CVEs, and defense techniques.
+  > Believes in knowledge sharing and collaborative growth within the cybersecurity community.
 
 <br>
 
-### ✎ Graphical Interfaces and Design
-- __`PyQt6`__: Creating intuitive and engaging user experiences, always emphasizing the feelings conveyed by animations and color palettes<br>
+### **Graphical Interfaces and Design**
+- __`PyQt6`__ — Building modern, responsive desktop interfaces with a focus on usability, animation flow, and visual coherence across platforms.
+  > Experienced with modular architectures, event-driven logic, and advanced UI customization through Qt Designer and QSS.
+
+- __`Web Design`__ — Crafting clean, accessible, and fully responsive interfaces using HTML5, CSS3, and modern JavaScript principles.
+  > Strong sense of layout balance, micro-interactions, and fluid transitions to enhance user experience.
+
+- __`Graphic Tools`__ — Proficient with Adobe Illustrator, GIMP, and other design tools for vector illustration, branding, and iconography.
+  > Capable of defining consistent color palettes, logo systems, and visual identities for web and software projects.
+
+- _`UI/UX Philosophy`_ — Designing with clarity, purpose, and emotion, ensuring that each interaction feels intuitive and aligned with the product’s vision.
+  > Believes that good design is invisible — it feels right before it’s noticed.
 
 <br>
 
 ---
 
-## 💡 Development Philosophy
+## **Development Philosophy**
 ```python
 def solve_problem(challenge):
     while not solved(challenge):
@@ -40,30 +75,30 @@ def solve_problem(challenge):
         solution = implement(approach)
         if works(solution):
             return solution
-        else:
-            learn_from_failure(solution)
+        learn_from_failure(solution)
     
-    return success
+    return None
 ```
 
 <br>
 
-## 🌐 Technological Ecosystem
+## **Technological Ecosystem**
 - __Operating Systems__: Linux (Kali, Ubuntu), Windows<br>
-- __Tools__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, etc.<br>
+- __Tools__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, Postman, etc.<br>
 - __Languages__: Python, Bash, SQL, HTML/CSS, JavaScript<br>
 - __Editors__: VSCode, Nvim, Nano, Atom, Sublime 
 
 <br>
 
-## 💠 Recent Projects
+## **Recent Projects**
 Take a look at my latest projects!<br>
 
+- <a href="https://github.com/Syyysco/Typerflip"><b>Typerflip</b></a>: Text formatting web application for social platforms
 - <a href="https://github.com/Syyysco/Zeven"><b>Zeven</b></a>: Command-line tool built in Python
 
 <br>
 
-## 🔗 Collaboration and Contact
+## **Collaboration and Contact**
 Do you have a revolutionary idea or an intriguing technical challenge? Let’s talk! I’m always open to collaborating on innovative projects.<br>
 
 E-mail:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
@@ -72,7 +107,7 @@ E-mail:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
 
 <br><br><br>
 
-<h2 align="center">LEARNER'S MINDSET</h1>
+<h2 align="center">LEARNER'S MINDSET</h2>
 <p align="center">
   "The true hacker is an eternal learner, always seeking to expand their knowledge and skills." - <i>Anonymous</i><br>
   "Knowledge should be free." - <i>Anonymous</i><br>
